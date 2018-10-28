@@ -1,12 +1,9 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/shubhneet182/shubhneet182.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+**WELCOME TO MY PAGE**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hi, I am Shubhneet Sandhu, a 1st year B.Tech student from **Deenbandhu Chhotu Ram University Of Science and Technology, Murthal**.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Markdown is a lightweight and easy-to-use syntax for styling your wriing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
