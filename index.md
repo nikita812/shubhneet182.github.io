@@ -15,6 +15,8 @@ Coming to my Technical Skills, I have basic knowledge of-
 3.HTML    
 !(C:\Users\Guest\Documents\html.jpg)
 
+I enjoy sketching and other forms of art. Here are some of my artworks-
+
 
 
 
