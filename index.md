@@ -7,7 +7,7 @@ I love reading quotes which inspire me to achieve my goals in life and always ke
 
 >*If you want to shine like a sun, first burn like a sun.*
 
-Coming to my Technical Skills, I have basic knowledge of-
+Coming to my Technical Skills, I have basic knowledge of -
 1.Python  
 !(https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png)
 2.MySQL   
